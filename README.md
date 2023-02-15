@@ -1,3 +1,6 @@
+##Name: Ian
+##Partner: Albert
+
 # Year-11-CS-Unit-6-Lab-VigenereCipher
 
 Your job is to create one class called VigenereCipher.
