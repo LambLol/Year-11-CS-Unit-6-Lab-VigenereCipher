@@ -1,5 +1,5 @@
-##Name: Ian
-##Partner: Albert
+## Name: Ian
+## Partner: Albert
 
 # Year-11-CS-Unit-6-Lab-VigenereCipher
 
